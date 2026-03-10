@@ -1,0 +1,3 @@
+export const EXPO_PUBLIC_BASE_URL = process.env.EXPO_PUBLIC_BASE_URL ?? "";
+export const EXPO_PUBLIC_ACCESS_TOKEN_KEY = process.env.EXPO_PUBLIC_ACCESS_TOKEN_KEY ?? "";
+export const EXPO_PUBLIC_REFRESH_TOKEN_KEY = process.env.EXPO_PUBLIC_REFRESH_TOKEN_KEY ?? "";
